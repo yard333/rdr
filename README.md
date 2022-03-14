@@ -56,11 +56,10 @@ USAGE:
    rdr keys FILE1 [FILE2] [FILE3]...
 ```
 
-[Linux amd64 Download](https://github.com/xueqiu/rdr/releases/download/v0.0.1/rdr-linux)
+[Linux x86 Download](https://github.com/xueqiu/rdr/releases/download/rdr-linux)
+[Linux ARM Download](https://github.com/xueqiu/rdr/releases/download/rdr-linux-arm)
 
-[OSX Download](https://github.com/xueqiu/rdr/releases/download/v0.0.1/rdr-darwin)
 
-[Windows Download](https://github.com/xueqiu/rdr/releases/download/v0.0.1/rdr-windows.exe)
 
 After downloading maybe need add permisson to execute.
 
