@@ -57,6 +57,7 @@ USAGE:
 ```
 
 [Linux x86 Download](https://github.com/xueqiu/rdr/releases/download/rdr-linux)
+
 [Linux ARM Download](https://github.com/xueqiu/rdr/releases/download/rdr-linux-arm)
 
 
