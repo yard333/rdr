@@ -56,9 +56,9 @@ USAGE:
    rdr keys FILE1 [FILE2] [FILE3]...
 ```
 
-[Linux x86 Download](https://github.com/xueqiu/rdr/releases/download/rdr-linux)
+[Linux x86 Download](https://github.com/yard333/rdr/tree/master/releases/download/rdr-linux)
 
-[Linux ARM Download](https://github.com/xueqiu/rdr/releases/download/rdr-linux-arm)
+[Linux ARM Download](https://github.com/yard333/rdr/tree/master/releases/download/rdr-linux-arm)
 
 
 
