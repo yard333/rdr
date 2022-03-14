@@ -13,16 +13,28 @@ USAGE:
    rdr [global options] command [command options] [arguments...]
 
 VERSION:
-   v0.0.1
+   v1.0.0
 
 COMMANDS:
+     csv      export csv format file
      show     show statistical information of rdbfile by webpage
      keys     get all keys from rdbfile
      help, h  Shows a list of commands or help for one command
-
+	
 GLOBAL OPTIONS:
    --help, -h     show help
    --version, -v  print the version
+```
+
+```
+NAME:
+   rdr csv - export csv
+
+USAGE:
+   rdr csv -f dump.rdb
+
+OPTIONS:
+    -t top, -f rdbfile, -c export path file
 ```
 
 ```
@@ -57,14 +69,7 @@ $ chmod a+x ./rdr*
 ```
 
 ## Exapmle
-```
-$ ./rdr show -p 8080 *.rdb
-```
-Note that the memory usage is approximate.
-![show example](https://yqfile.alicdn.com/img_9bc93fc3a6b976fdf862c8314e34f454.png)
-
-```
-$ ./rdr keys example.rdb
+$ ./rdr csv -t 100 -f dump.rdb
 portfolio:stock_follower_count:ZH314136
 portfolio:stock_follower_count:ZH654106
 portfolio:stock_follower:ZH617824
